@@ -8,7 +8,14 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
 </em></p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciadania&layout=compact&theme=radical" alt="My Github Stats"><br><br>
+<div>
+<p align="center">
+  <a href="https://github.com/patriciadania">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciadania&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patriciadania&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+<br><br>
 
 <p align="center">
   <i>《 Outros lugares em que podem me encontrar 》</i>
