@@ -7,11 +7,11 @@
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
 </em></p>
-<p align="center">
-<div>
-<p align="center">
-
+<div >
+    <p align="center">
+ <img align="center" height="185rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciadania&langs_count=5&theme=midnight-purple">
 </p>
+ <br>
 <br><br>
 
 <p align="center">
