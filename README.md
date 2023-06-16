@@ -10,7 +10,7 @@
 <div >
     <p align="center">
  <!-- <img align="center" height="185rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciadania&langs_count=5&theme=midnight-purple"> -->
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patriciadania&show_icons=true&theme=tokyonight&include_all_commits=true")/>
+      <img align="center" height="185rem"  src="https://github-readme-stats.vercel.app/api?username=patriciadania&show_icons=true&theme=radical">
 </p>
  <br>
 <br>
