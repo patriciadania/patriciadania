@@ -2,7 +2,7 @@
 <br>
 <samp>
     Hello there! Sou a Patrícia, mas pode me chamar de Pati. <img width="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
-    <br><br>Estudante de Desenvolvimento Web pela Laboratória| Front-End | HTML | CSS | JavaScript <br><br><br>
+    <br><br>Desenvolvedora Web da 9ª turma da Laboratória| Front-End | HTML | CSS | JavaScript <br><br><br>
 </samp>
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150"> 
