@@ -39,7 +39,7 @@
   <img align="center" alt="Insomnia" height="30" width="40" src="https://user-images.githubusercontent.com/120285942/236062287-09f1bc78-7e35-45bc-b420-17b08bd4f81d.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://github.com/patriciadania/patriciadania/assets/120285942/97ef6319-46a5-45ac-a9cf-767396ad0f9f">
    <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-    <img align="center" alt="Vercel" height="40" width="40" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67">
+  
 
     
 </samp>
